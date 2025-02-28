@@ -1,3 +1,5 @@
+package inventario;
+
 import java.util.ArrayList;
 
 public class Inventario {
